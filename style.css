@@ -39,8 +39,8 @@
     justify-content: space-between;
     background: #edeef0;
     border-radius: 30px;
-    padding-left: 10px;
-    margin-bottom: 14px;
+    padding-left: 20px;
+    margin-bottom: 25px;
 }
 
 input {
@@ -85,7 +85,7 @@ ul li::before {
 }
 
 ul li.checked {
-    color: 555;
+    color: #555;
     text-decoration: line-through;
 }
 
@@ -104,7 +104,6 @@ ul li span {
     line-height: 40px;
     text-align: center;
     border-radius: 50%;
-    background-image: url("images/x\ button.png");
 }
 
 ul li span:hover {
